@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shacbi</h1>
-<h3 align="center">A Computer Science student learning Python and Web Development</h3>
+<h3 align="center">A Computer Science student learning Python html css and Web Development</h3>
 
 ### Connect with me:
 <p align="left">
