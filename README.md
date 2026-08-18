@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shacbi</h1>
-<h3 align="center">A Computer Science student learning Python and Web Development</h3>
+<h3 align="center">A Computer Science student learning Python  html css and Web Development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shacbi" alt="shacbi" /></a> </p>
 
