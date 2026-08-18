@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm shacbi</h1>
 <h3 align="center">A Computer Science student learning Python html css and Web Development</h3>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shacbi&theme=flat&margin-w=15&margin-h=15" alt="shacbi" />
+  </a>
+</p>
+
 ### Connect with me:
 <p align="left">
   <a href="https://www.facebook.com/share/1EHr59c7iW/" target="blank">
