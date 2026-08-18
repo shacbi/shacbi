@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/cabdiraxmaan cabdikariin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cabdiraxmaan cabdikariin" height="30" width="40" /></a>
+<a href="https://fb.com/cabdiraxmaancabdikariin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cabdiraxmaancabdikariin" height="30" width="40" /></a>
 <a href="https://instagram.com/cabdirahmanshacbi16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cabdirahmanshacbi16" height="30" width="40" /></a>
 </p>
 
