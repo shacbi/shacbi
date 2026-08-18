@@ -3,7 +3,7 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://facebook.com/cabdiraxmaan.cabdikariin" target="blank">
+  <a href="https://www.facebook.com/share/1EHr59c7iW/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/cabdirahmanshacbi16" target="blank">
